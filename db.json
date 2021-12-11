@@ -1,60 +1,62 @@
 {
-  "windows": [
-  {
-    "id": 0,
-    "closed": true
-  },
-  {
-    "id": 1,
-    "closed": true
-  },
-  {
-    "id": 2,
-    "closed": false
-  },
-  {
-    "id": 3,
-    "closed": true
-  },
-  {
-    "id": 4,
-    "closed": true
-  },
-  {
-    "id": 5,
-    "closed": true
-  },
-  {
-    "id": 6,
-    "closed": true
-  },
-  {
-    "id": 7,
-    "closed": true
-  },
-  {
-    "id": 8,
-    "closed": true
-  },
-  {
-    "id": 9,
-    "closed": true
-  },
-  {
-    "id": 10,
-    "closed": true
-  },
-  {
-    "id": 11,
-    "closed": true
-  },
-  {
-    "id": 12,
-    "closed": true
-  },
-  {
-    "id": 13,
-    "closed": true
+  "data": {
+    "windows": [
+    {
+      "id": 0,
+      "closed": true
+    },
+    {
+      "id": 1,
+      "closed": true
+    },
+    {
+      "id": 2,
+      "closed": false
+    },
+    {
+      "id": 3,
+      "closed": true
+    },
+    {
+      "id": 4,
+      "closed": true
+    },
+    {
+      "id": 5,
+      "closed": true
+    },
+    {
+      "id": 6,
+      "closed": true
+    },
+    {
+      "id": 7,
+      "closed": true
+    },
+    {
+      "id": 8,
+      "closed": true
+    },
+    {
+      "id": 9,
+      "closed": true
+    },
+    {
+      "id": 10,
+      "closed": true
+    },
+    {
+      "id": 11,
+      "closed": true
+    },
+    {
+      "id": 12,
+      "closed": true
+    },
+    {
+      "id": 13,
+      "closed": true
+    }
+    ]
   }
-  ]
 }
