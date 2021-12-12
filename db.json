@@ -43,7 +43,7 @@
     },
     {
       "id": 8,
-      "closed": true,
+      "closed": false,
       "double": true
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "id": 13,
-      "closed": true,
+      "closed": false,
       "double": false
     }
     ]
