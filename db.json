@@ -3,59 +3,73 @@
     "windows": [
     {
       "id": 0,
-      "closed": true
+      "closed": true,
+      "double": false
     },
     {
       "id": 1,
-      "closed": true
+      "closed": true,
+      "double": true
     },
     {
       "id": 2,
-      "closed": false
+      "closed": false,
+      "double": false
     },
     {
       "id": 3,
-      "closed": true
+      "closed": true,
+      "double": true
     },
     {
       "id": 4,
-      "closed": true
+      "closed": true,
+      "double": false
     },
     {
       "id": 5,
-      "closed": true
+      "closed": true,
+      "double": false
     },
     {
       "id": 6,
-      "closed": true
+      "closed": true,
+      "double": false
     },
     {
       "id": 7,
-      "closed": true
+      "closed": true,
+      "double": false
     },
     {
       "id": 8,
-      "closed": true
+      "closed": true,
+      "double": true
     },
     {
       "id": 9,
-      "closed": true
+      "closed": true,
+      "double": false
     },
     {
       "id": 10,
-      "closed": true
+      "closed": true,
+      "double": false
     },
     {
       "id": 11,
       "closed": true
+      "double": true
     },
     {
       "id": 12,
-      "closed": true
+      "closed": true,
+      "double": false
     },
     {
       "id": 13,
-      "closed": true
+      "closed": true,
+      "double": false
     }
     ]
   }
