@@ -43,7 +43,7 @@
     },
     {
       "id": 8,
-      "closed": false,
+      "closed": true,
       "double": true
     },
     {
