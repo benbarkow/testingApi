@@ -33,12 +33,12 @@
     },
     {
       "id": 6,
-      "closed": false,
+      "closed": true,
       "double": false
     },
     {
       "id": 7,
-      "closed": false,
+      "closed": true,
       "double": false
     },
     {
