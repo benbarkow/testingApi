@@ -68,7 +68,7 @@
     },
     {
       "id": 13,
-      "closed": false,
+      "closed": true,
       "double": false
     }
     ]
